@@ -1,0 +1,10 @@
+flask
+numpy
+scikit-learn
+sentence-transformers
+pandas
+matplotlib
+hf_xet
+fastapi
+uvicorn
+transformers

@@ -1,0 +1,4 @@
+model,avg_similarity,runtime_sec,avg_tokens_text1,avg_tokens_text2
+MultiQA (Best Accuracy),0.1913,129.77,397.7,419.6
+MPNet (Balanced),0.1322,87.13,397.7,419.6
+MiniLM-L12 (Fastest),0.1161,13.98,397.7,419.6
